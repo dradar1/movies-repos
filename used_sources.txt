@@ -1,0 +1,5 @@
+# gitignore statements for django
+https://www.toptal.com/developers/gitignore/api/django
+
+# django youtube tutorial
+https://youtu.be/EuBQU_miReM?si=0rUoxMlIqv7ivJM8
